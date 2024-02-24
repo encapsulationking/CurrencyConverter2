@@ -16,6 +16,7 @@
 		2F2C6BFE2B8655F000F532F1 /* ExchangeRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2C6BFD2B8655F000F532F1 /* ExchangeRate.swift */; };
 		2F2C6C002B865F8300F532F1 /* SelectCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2C6BFF2B865F8300F532F1 /* SelectCurrency.swift */; };
 		2F2C6C022B86622100F532F1 /* CurrencyIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2C6C012B86622100F532F1 /* CurrencyIcon.swift */; };
+		2F42DFED2B8A3D20000CEAFE /* CurrencyTip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F42DFEC2B8A3D20000CEAFE /* CurrencyTip.swift */; };
 		2FBDF0942B868F4A0066B71B /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBDF0932B868F4A0066B71B /* Currency.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		2F2C6BFD2B8655F000F532F1 /* ExchangeRate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeRate.swift; sourceTree = "<group>"; };
 		2F2C6BFF2B865F8300F532F1 /* SelectCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectCurrency.swift; sourceTree = "<group>"; };
 		2F2C6C012B86622100F532F1 /* CurrencyIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyIcon.swift; sourceTree = "<group>"; };
+		2F42DFEC2B8A3D20000CEAFE /* CurrencyTip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyTip.swift; sourceTree = "<group>"; };
 		2FBDF0932B868F4A0066B71B /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				2F2C6BED2B861EF700F532F1 /* CurrencyConverter2App.swift */,
+				2F42DFEC2B8A3D20000CEAFE /* CurrencyTip.swift */,
 				2F2C6BEF2B861EF700F532F1 /* ContentView.swift */,
 				2F2C6BFF2B865F8300F532F1 /* SelectCurrency.swift */,
 				2F0231672B87D71700AE7822 /* IconGrid.swift */,
@@ -160,6 +163,7 @@
 				2F2C6C002B865F8300F532F1 /* SelectCurrency.swift in Sources */,
 				2F2C6BFC2B8647AB00F532F1 /* ExchangeInfo.swift in Sources */,
 				2F2C6BF02B861EF700F532F1 /* ContentView.swift in Sources */,
+				2F42DFED2B8A3D20000CEAFE /* CurrencyTip.swift in Sources */,
 				2F2C6BEE2B861EF700F532F1 /* CurrencyConverter2App.swift in Sources */,
 				2FBDF0942B868F4A0066B71B /* Currency.swift in Sources */,
 				2F2C6C022B86622100F532F1 /* CurrencyIcon.swift in Sources */,
